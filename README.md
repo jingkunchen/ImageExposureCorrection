@@ -1,4 +1,4 @@
-# Balancing Light and Shadow: A Benchmark for Multi-Modal Exposure Correction via Frequency–Phase Driven RGB-IR Integration
+# Balancing Light and Shadow: A Benchmark for Multi-Modal Image Exposure Correction via Frequency–Phase Driven RGB-IR Integration
 ---
 
 ## Abstract
